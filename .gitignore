@@ -1,6 +1,13 @@
+*.air
+*.exe
+*.swf
+
 # Build and Release Folders
 bin-debug/
 bin-release/
+bin/
+obj/
+html-template/
 
 # Project property files
 .actionScriptProperties
